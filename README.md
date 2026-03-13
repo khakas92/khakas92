@@ -37,9 +37,9 @@ An experimental project around real-time processing, synchronization, and practi
 
 ## Connect With Me
 
-- LinkedIn: ![Evgenii Chistanov](https://www.linkedin.com/in/evgenii-chistanov)
-- Telegram: ![@khakas92](https://t.me/khakas92)
-- Email: ![khakas92@gmail.com](mailto:khakas92@gmail.com)
+- LinkedIn: [Evgenii Chistanov](https://www.linkedin.com/in/evgenii-chistanov)
+- Telegram: [@khakas92](https://t.me/khakas92)
+- Email: [khakas92@gmail.com](mailto:khakas92@gmail.com)
 
 ---
 
